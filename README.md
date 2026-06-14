@@ -16,13 +16,7 @@
 
 ### Languages, human and machine
 
-- German L1
-- English C2
-- Chinese B1
-- Spanish B1
-- Shell Script
-- Goliang (wip)
-- Rust (in my dreams) 
+German L1 - English C2 - Chinese B1 - Spanish B1 - Shell Script (quadctl) - Goliang (wip) - Rust (in my dreams) 
 
 ---
 
