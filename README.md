@@ -1,10 +1,10 @@
-### 🌐 Platform Engineer & Systems Aficionado
+# Platform Engineer & Systems Aficionado
 
 I specialize* in declarative infrastructure, system hardening, and lightweight control plane architecture. My work focuses on extracting maximum architectural efficiency from immutable, atomic Linux distributions.
 
-* 🛠️ **Infrastructure-as-Code (IaC):** Architected `quadctl` (`q`), a Go/Rust/Bash-driven control plane that implements a declarative reconciliation loop over rootless Podman containers and systemd user-generators on Fedora CoreOS.
-* 🔒 **Hardened Container Virtualization:** Designing zero-trust local infrastructure utilizing rootless runtimes, capability drop-lists, isolated networks, and custom systemd resource slices.
-* 📊 **High-Performance Observability:** Implementing cloud-native telemetry fabrics powered by VictoriaMetrics and VictoriaLogs for granular, low-overhead time-series and log ingestion.
+- **Infrastructure-as-Code (IaC):** Architected `quadctl` (`q`), a shell-script control plane that implements a declarative reconciliation loop over rootless Podman containers and systemd user-generators on ucOre (Fedora Core OS).
+- **Hardened Container Virtualization:** Designing zero-trust local infrastructure utilizing rootless runtimes, capability drop-lists, isolated networks, and custom systemd resource slices.
+- **High-Performance Observability:** Implementing cloud-native telemetry fabrics powered by VictoriaMetrics and VictoriaLogs for granular, low-overhead time-series and log ingestion.
 
 *Keywords: Linux Internals • Podman/Quadlets • Systemd Generators • Fedora CoreOS • Declarative Automation • Platform Engineering • Telemetry Engineering*
 
