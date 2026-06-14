@@ -6,9 +6,9 @@ I specialize* in declarative infrastructure, system hardening, and lightweight c
 - **Hardened Container Virtualization:** Designing zero-trust local infrastructure utilizing rootless runtimes, capability drop-lists, isolated networks, and custom systemd resource slices.
 - **High-Performance Observability:** Implementing cloud-native telemetry fabrics powered by VictoriaMetrics and VictoriaLogs for granular, low-overhead time-series and log ingestion.
 
-*Keywords: Linux Internals • Podman/Quadlets • Systemd Generators • Fedora CoreOS • Declarative Automation • Platform Engineering • Telemetry Engineering*
+##### *It's just a hobby.
 
-*It's just a hobby. I actually study cultural-anthropology
+*Keywords: Linux • Podman/Quadlets • Systemd • Fedora CoreOS • uCore • uBlue OS • Containers • Infrastructure as Code • GitOps • DevOps • SysAdmin • Platform Engineering • Cloud Native Engineering*
 
 <!--
 **handahl/handahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
