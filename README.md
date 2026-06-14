@@ -5,10 +5,24 @@
 
 ### Research
 
-- M.A. Empirische Kulturwissenschaft & Kulturanthropologie, Uni Bonn. (wip)\
-- B.A. Altamerikanistik und Ethnologie\
-- B.A. Deutsch als Zweitsprache / Deutsch als Fremdsprache\
-- (B.Th. in an earlier live)
+- M.A. Empirische Kulturwissenschaft & Kulturanthropologie, Uni Bonn. (wip)
+  - exchange to College of Social Sciences / Sociology / Anthropology at National Taiwan University, Taipei
+- Mandarin Training Center, National Taiwan Normal University, Taipei 
+- B.A. Altamerikanistik und Ethnologie, Uni Bonn.
+- B.A. Deutsch als Zweitsprache / Deutsch als Fremdsprache, Uni Bonn.
+- (B.Th., BTA Wiedenest, in a previous live)
+
+---
+
+### Languages, human and machine
+
+- German L1
+- English C2
+- Chinese B1
+- Spanish B1
+- Shell Script
+- Goliang (wip)
+- Rust (in my dreams) 
 
 ---
 
